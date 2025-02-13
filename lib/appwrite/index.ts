@@ -9,7 +9,7 @@ export const createSessionClient = async() => {
         .setEndpoint(appWriteConfig.endPointURL)
         .setProject(appWriteConfig.projectId)
         
-        const session = (await cookies()).get('appwrite-session');
+        const session = (await cookies()).get("appwrite-session");
         if(!session || !session.value) throw new Error('No Session');
         client.setSession(session.value);
 
