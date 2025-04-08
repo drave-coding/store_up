@@ -82,14 +82,12 @@ store_it/
 
 ## Demo
 
-- **Live Demo**: [https://store-it.vercel.app](https://store-it.vercel.app)
+- **Live Demo**: [https://store-it.vercel.app](https://store-up-nine.vercel.app)
 - **Screenshots**:
-  ![Dashboard Screenshot](https://via.placeholder.com/800x400?text=Dashboard)
-  ![File Upload Screenshot](https://via.placeholder.com/800x400?text=File+Upload)
+  ![Landing Page Screenshot](https://github.com/user-attachments/assets/ef1e07fa-5730-46c6-a241-2d4ef106db94)
+  ![Dashboard](https://github.com/user-attachments/assets/02d46bc6-ebd7-4ca9-bf4b-762d3ce45048)
 
-## Changelog
-
-See the [CHANGELOG.md](CHANGELOG.md) file for details on changes and updates.
+  
 
 ## License
 
